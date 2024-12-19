@@ -7,6 +7,8 @@ pkg update && pkg upgrade
 pkg install git
 pkg install python
 pip install telepot
+git clone https://github.com/irfa448/proksi.git
+cd proksi
 python proksi.py
 ```
 
